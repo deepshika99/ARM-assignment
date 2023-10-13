@@ -1,5 +1,5 @@
 # ARM-assignment
-
+An assignment I did in final year of B.E in assembly language. It was fun!
 ARM ASSEMBLY LANGUAGE 
 1. Binary search 
 2. Matrix multiplication
